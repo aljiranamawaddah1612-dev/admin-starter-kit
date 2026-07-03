@@ -6,6 +6,10 @@
         <h5 class="fw-bold mb-0">{{ $title }}</h5>
     </div>
 
+    <div class="card shadow p-3">
+
+    </div>
+
     @push('modals')
     @endpush
 
